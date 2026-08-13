@@ -1,0 +1,6 @@
+{
+  "name": "1Beginning Junk Removal",
+  "description": "Fast, reliable junk and debris removal in Cleveland, OH. Cleanouts, construction debris, furniture, appliances, and dumpster rental. Call (216) 825-3184.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
